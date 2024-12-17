@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/contentsphere/clientlibs"/>
+    <filter root="/apps/contentsphere/components"/>
+    <filter root="/apps/contentsphere/i18n"/>
+</workspaceFilter>

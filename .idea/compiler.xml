@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="content-sphere.ui.apps" />
+        <module name="content-sphere.all" />
+        <module name="content-sphere.core" />
+        <module name="content-sphere.ui.content" />
+        <module name="content-sphere.ui.config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="content-sphere.ui.frontend (1)" target="1.5" />
+      <module name="content-sphere.ui.frontend (2)" target="1.8" />
+      <module name="content-sphere.ui.frontend (3)" target="1.5" />
+      <module name="content-sphere.ui.frontend.react.forms.af" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
